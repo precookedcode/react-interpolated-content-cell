@@ -1,0 +1,32 @@
+{
+  "name": "@precooked/react-interpolated-content-cell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/precookedcode/react-interpolated-content-cell.git"
+  },
+  "bugs": {
+    "url": "https://github.com/precookedcode/react-interpolated-content-cell/issues"
+  },
+  "homepage": "https://github.com/precookedcode/react-interpolated-content-cell#readme",
+  "author": "Roberto Carraro",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "typescript": "^5.6.3"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1"
+  },
+  "dependencies": {
+    "@precooked/react-icon": "^1.0.15",
+    "expr-eval": "^2.0.2"
+  }
+}
